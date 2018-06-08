@@ -25,6 +25,6 @@
 
      $alunos = array ("Willian", "Everton");
      echo "Numero de alunos" . count($alunos); 
-    testando
+   gustavo
 
 ?>
