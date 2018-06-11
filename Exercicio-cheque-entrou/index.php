@@ -20,11 +20,8 @@
   define('MENU', 0);
   ?>
 
-
-        <?php
-
-     $alunos = array ("Willian", "Everton");
-     echo "Numero de alunos" . count($alunos); 
-   evertonnn
-
-?>
+        <form action="calcula.php" method="post">
+            <label for="">Digite o Valor</label>
+            <input type="text" name="valorCheque">
+            <button type="submit">Enviar</button>
+        </form>
