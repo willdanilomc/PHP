@@ -4,7 +4,6 @@ $nota = 5;
 $situacao = ($nota >= 6 ) ? "Ternario Aluno Aprovado" : "Ternario Aluno Reprovado";
 echo $situacao;
 
-
 $v1 = 10;
 $v2 = 20;
 

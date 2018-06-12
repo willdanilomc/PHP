@@ -7,6 +7,7 @@ $nomes = array("Willian", "Gustavo", "Everton");
 //}
 
 
+//Cria uma array e depois mostra os nome dentro dessa array
 foreach ($nomes as $nomedosAlunos){
     echo " Nomes dos alunos " . $nomedosAlunos . "<br>";
 }
