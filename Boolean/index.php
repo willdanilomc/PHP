@@ -1,5 +1,6 @@
 <?php
 
+//Ve se o nome é igual professor, ve se é real ou falso
 $nome = "Willian";
 $professor = false;
 
