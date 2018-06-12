@@ -10,4 +10,6 @@ $nomes = array("Willian", "Gustavo", "Everton");
 foreach ($nomes as $nomedosAlunos){
     echo " Nomes dos alunos " . $nomedosAlunos . "<br>";
 }
+
+
 ?>
